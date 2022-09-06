@@ -1,0 +1,30 @@
+
+file-link  https://colab.research.google.com/drive/1MStu0mlEEwfN0Zuj_c7z_z-oIeB5zCL5?usp=sharing
+
+
+SUMMARY
+
+
+1) Reviews count of product purchase by customers = 3565 (Genuine)
+
+2) Reviews are came from customers who don't purchase product =29482 (Fake)
+
+3) Reviews which are nulls = 37997
+
+4) The longest review of length 5865 characters and 1010 words.
+
+5) The smallest review of length 2 characters and 1 word.
+
+6) The average review length is 209 characters and 40 words approx.
+
+7) Top frequent words in reviews having rating = 5 is "great, product , love , movie , review ,part , promotion
+
+8) Top frequent words in reviews having rating =1 is "product , new ,old , formula , one ,used , like ,hair , old
+
+9) The smallest categories is "Household-Essentials"
+
+10) "Clorox" brand have Highest-Rating (avg) = 4.85 in top 15 brands.
+
+11) "Nexxus" brand have lowest rating (avg) = 1.54 in top 15 brands.
+
+12) Rating "5" has less review length .
